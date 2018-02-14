@@ -1,0 +1,15 @@
+#!/bin/bash
+# My First Week Class
+echo "Hello Matt"
+echo "list files
+ls
+echo "copy files"
+cp Mohamed.M Mohamed.txt
+echo "user inforamtion like names"
+man -k sort
+echo " remove a file Mohamed.M
+echo "Create a file"
+touch file1
+echo "Delete the file you just created"
+rm file1
+
